@@ -10,16 +10,94 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 2.08h | 1 |
+| Week 2 | Tier 1 | 14.58h | 1 |
 
 ## Contents
 
-1. [2026-10-16 – Work session](#2026-10-16-work-session)
+1. [2026-10-16 – ![thursday_spiral_progress](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cBBK111nWIThGGVNKRtywaVwPwdRViXt/fb7fa233335e21e8dfc79d7e51586df4440d3850523eba9a438231f76edbd82e.png)](#2026-10-16-thursdayspiralprogresshttpshalflifehackclub-asset)
 
 ## Design
 
-### 2026-10-16 – Work session
+### 2026-10-16 – ![thursday_spiral_progress](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cBBK111nWIThGGVNKRtywaVwPwdRViXt/fb7fa233335e21e8dfc79d7e51586df4440d3850523eba9a438231f76edbd82e.png)
 
-**2.08h**
+**14.58h**
+
+![thursday_spiral_progress](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cBBK111nWIThGGVNKRtywaVwPwdRViXt/fb7fa233335e21e8dfc79d7e51586df4440d3850523eba9a438231f76edbd82e.png)
+
+![thursday_spiral_sketch](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cBBK111nWIThGGVNKRtywaVwPwdRViXt/553a8ee75a5eaca50427c3108065baf61b925d9b70ae047c41780b41ee7df868.png)
+
+![thursday_support_bracket](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cBBK111nWIThGGVNKRtywaVwPwdRViXt/23576c7a244d98c98bd5bbf923561a4f9eb1dd6ea48fe063b940a02662e745c5.png)
+
+![friday_connector_test](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cBBK111nWIThGGVNKRtywaVwPwdRViXt/587d0d18560bff40e090842a4df7efff5132301c74cd26d90a32ba619d68483b.png)
+
+![friday_sloped_track](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cBBK111nWIThGGVNKRtywaVwPwdRViXt/afc466b2bae2bacfd2849f29a7fc085ca4c265b13e0c88d7ed3c657462d4fc12.png)
+
+Wednesaday
+
+Today I started working on my marble run for Half Life Week 2. I decided to make it a modular marble run because I want the marble to travel a pretty long distance, but I also have to keep everything under the $30 budget.
+
+I spent the beginning of the session going through the Merbl guide and learning how Onshape works. At first I thought it would be pretty straightforward, but I kept getting confused between sketches and actual 3D parts. I also had to get used to dimensions, selecting the correct faces, and figuring out why certain shapes weren't extruding properly.
+
+I started by making the base. My first idea was just a solid square, but I realised that would use unnecessary plastic, so I changed it into a frame with a hollow middle. I spent some time editing the original sketch and making sure the inner and outer rectangles had the correct dimensions.
+
+After that, I worked on the support columns and the tracks. I tried designing a hollow column so it would use less material, then moved on to the straight track. The straight track was easier to understand, but I still had to work out how to create the bottom and the two walls without accidentally making separate pieces.
+
+The curved track was where things got more complicated. I had to work with arcs instead of rectangles and make sure the inner and outer curves were properly connected. I also started looking at how the straight and curved tracks could eventually join together.
+
+I definitely underestimated how much there was to learn. A lot of the session was spent making something, realising it wasn't quite right, going back into the sketch and changing it. By the end, I had made progress on the base, supports and basic track shapes, and I had a much better understanding of how I wanted the whole marble run to fit together.
+
+I still have a lot to do, especially the spiral and more complicated obstacles, but at least I have a foundation to build on now.
+
+![Screen Shot 2026-10-17 at 9.49.43 am](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cBBK111nWIThGGVNKRtywaVwPwdRViXt/6447d6b83091e3a080a5f935c3ca9ccbbb1bc1deacb89cea10f6283cb85ceef4.png)
+
+![Screen Shot 2026-10-17 at 9.49.53 am](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cBBK111nWIThGGVNKRtywaVwPwdRViXt/e6574b8da0c726d96ed52a034eb2ea1793c4bd46199065fa7045df22aa705451.png)
+
+![Screen Shot 2026-10-17 at 9.50.03 am](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cBBK111nWIThGGVNKRtywaVwPwdRViXt/b2a93867e396b93dc107e2d0437a3678d8b9aa91f49996aadbcaccf0ee8f3480.png)
+
+![Screen Shot 2026-10-17 at 9.50.12 am](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cBBK111nWIThGGVNKRtywaVwPwdRViXt/4859103f364d07dd2421db0a10434324d0f3bf3496a1cb82a63440198d346bc4.png)
+
+![funnel](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cBBK111nWIThGGVNKRtywaVwPwdRViXt/bcf5cdaa0f9d491f79d14cbece7a76635b5a1135bcb1ed54fad4724a40add105.png)
+
+![marble line](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cBBK111nWIThGGVNKRtywaVwPwdRViXt/243197d17244e5288c5718ad09048b39e88a5ec707d3bc1af93a06e42aadc9f9.png)
+
+![Plinkoboard](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cBBK111nWIThGGVNKRtywaVwPwdRViXt/4490a4cf5e2de176f7ebf96e402a99edaf34317d76cd3adfefbf02fc08131e53.png)
+
+![roundabout](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cBBK111nWIThGGVNKRtywaVwPwdRViXt/71842eeda07d231ddd690c4b53c58e88cf308fa62856de01ee7d727346e88971.png)
+
+Thursday
+
+Today I continued working on Marble Mayhem, mainly focusing on how to make the marble run longer without making the entire thing massive or too expensive to print.
+
+I started by going back through the track parts from yesterday and looking at how they would actually connect. Making individual parts is one thing, but getting them to line up properly is a different problem. I had to pay more attention to the width of the channels, the position of the walls and the ends of the tracks.
+
+I also spent time experimenting with the idea of a spiral track. I wanted the marble to travel around the structure several times instead of just going straight down. The difficult part was figuring out how the track could gradually get lower while still leaving enough space between the levels.
+
+I worked through different shapes and dimensions, checking how the curves would look and whether the surrounding supports would get in the way. I also looked at ways to keep the supports lightweight because even though I'm designing a long marble run, I really don't want to waste my entire budget on unnecessary plastic.
+
+One thing I've started noticing with Onshape is that changing one dimension can affect other parts of the design. Sometimes something looks fine from the top but doesn't line up properly when I rotate the model, so I had to keep checking it from different angles.
+
+I also spent time thinking about how to make the track sections modular. I want to be able to reuse the same pieces or connect additional sections later instead of redesigning everything from scratch.
+
+The main thing I learned today is that a marble run needs more planning than I expected. It isn't just about making a long track. The curves, height differences, supports and connections all have to work together.
+
+I'm still working towards getting the whole route connected, but I made progress understanding how the different parts need to fit together and what I should focus on next.
+
+Friday
+
+Today I carried on working on my marble run, focusing on improving the track connections and planning some more interesting sections. I don't want the final result to just be a marble going around a plain spiral. I want it to have different obstacles and changes in direction along the way.
+
+I started by looking at the straight and curved tracks and experimenting with ways to connect them. I worked on the idea of using a small tab on one track and a matching slot on the other. It sounded simple at first, but I had to think about how much space the connector would need and whether it would interfere with the marble.
+
+I experimented with the connector dimensions and looked at how the two track ends would line up. I also realised that making the connection too thin could cause problems when printing, so I started thinking about how to reinforce that area without making every track section thicker.
+
+After that, I explored some of the more interesting track ideas from the Merbl guide, especially the funnel and Plinko sections. I wanted to understand how those could fit into my existing design and how much room they would need. I also had to consider how the marble would enter and leave each obstacle without hitting a wall or getting stuck.
+
+Another thing I kept coming back to was the $30 budget. I want this marble run to be really long, but there's no point making an enormous design if I can't afford to print it. So I spent time looking at where I could simplify parts, reuse designs and avoid unnecessary material.
+
+I also went back through some of the existing sketches to see what could be improved. I'm starting to understand that CAD involves a lot of small adjustments. You can make something that looks completely fine, then notice a problem when you view it from another angle or try to connect it to another part.
+
+I still need to finish putting everything together and check whether the parts are actually practical to print, but the project is slowly starting to feel like a proper modular marble run rather than a collection of random CAD shapes.
+
+The next thing I want to focus on is the full assembly and making sure there's a continuous path for the marble from the start to the finish.
 
 [Timelapse](https://lookout.hackclub.com/api/media/1432e4c4-4b85-41f0-bda0-b9af2e58263c/video.mp4)
