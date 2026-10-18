@@ -1,0 +1,4 @@
+Install requirements.txt. Run revise_model.py, then validate_render.py and verify_export.py.
+The validation/render script requires an offscreen OpenGL environment; on Linux use xvfb-run if needed.
+Input_Approved_Model.zip contains the actual original CAD components and route samples.
+The files preserve assistant-generated provenance and do not fabricate a native Onshape history.
