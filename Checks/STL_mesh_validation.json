@@ -1,0 +1,425 @@
+{
+  "note": "Closed-shell checks do not establish continuous assembled rail unions or FDM suitability. Intersecting subsolids need slicer review/union.",
+  "meshes": [
+    {
+      "part": "01_Base_left",
+      "changed": false,
+      "triangle_count": 152,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "01_Base_right",
+      "changed": false,
+      "triangle_count": 152,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "02_Orange_funnel",
+      "changed": true,
+      "triangle_count": 1340,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "03_Blue_funnel_receiver",
+      "changed": false,
+      "triangle_count": 284,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "04_Blue_funnel_to_vortex_chute",
+      "changed": false,
+      "triangle_count": 290,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "05_Green_front_vortex",
+      "changed": false,
+      "triangle_count": 278810,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "06_Orange_vortex_exit",
+      "changed": false,
+      "triangle_count": 32422,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "07_Green_upper_snaking_rails",
+      "changed": false,
+      "triangle_count": 61276,
+      "watertight_mesh": false,
+      "winding_consistent": true
+    },
+    {
+      "part": "08_Orange_transfer_scoop",
+      "changed": false,
+      "triangle_count": 724,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "09_Green_return_to_steps",
+      "changed": true,
+      "triangle_count": 21108,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "10_Orange_fixed_step_descent",
+      "changed": false,
+      "triangle_count": 190314,
+      "watertight_mesh": false,
+      "winding_consistent": true
+    },
+    {
+      "part": "11_Blue_stair_cheek_left",
+      "changed": false,
+      "triangle_count": 1740,
+      "watertight_mesh": false,
+      "winding_consistent": true
+    },
+    {
+      "part": "11_Blue_stair_cheek_right",
+      "changed": false,
+      "triangle_count": 1740,
+      "watertight_mesh": false,
+      "winding_consistent": true
+    },
+    {
+      "part": "12_Green_lower_wave_return",
+      "changed": false,
+      "triangle_count": 41628,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "13_Orange_finishing_cup",
+      "changed": false,
+      "triangle_count": 556,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "14_Joint_saddle_A1_A2",
+      "changed": false,
+      "triangle_count": 28,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "14_Joint_saddle_A2_A3",
+      "changed": false,
+      "triangle_count": 28,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "14_Joint_saddle_A3_Stairs",
+      "changed": false,
+      "triangle_count": 28,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "14_Joint_saddle_Stairs_Return",
+      "changed": false,
+      "triangle_count": 28,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "14_Joint_saddle_Blue_Vortex",
+      "changed": false,
+      "triangle_count": 28,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "14_Joint_saddle_Vortex_Exit",
+      "changed": false,
+      "triangle_count": 28,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "17_Vortex_post_5",
+      "changed": false,
+      "triangle_count": 1416,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "17_Vortex_post_53",
+      "changed": false,
+      "triangle_count": 1412,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "17_Vortex_post_170",
+      "changed": false,
+      "triangle_count": 1307,
+      "watertight_mesh": false,
+      "winding_consistent": true
+    },
+    {
+      "part": "17_Vortex_post_223",
+      "changed": false,
+      "triangle_count": 1424,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "18_Lower_wave_post_18",
+      "changed": false,
+      "triangle_count": 1328,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "18_Lower_wave_post_75",
+      "changed": false,
+      "triangle_count": 1354,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "19_Blue_stair_post_38_-1",
+      "changed": false,
+      "triangle_count": 922,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "19_Blue_stair_post_38_1",
+      "changed": false,
+      "triangle_count": 696,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "19_Blue_stair_post_-21_-1",
+      "changed": false,
+      "triangle_count": 922,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "19_Blue_stair_post_-21_1",
+      "changed": false,
+      "triangle_count": 696,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "19_Blue_stair_post_-60_-1",
+      "changed": false,
+      "triangle_count": 922,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "19_Blue_stair_post_-60_1",
+      "changed": false,
+      "triangle_count": 696,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "20_Blue_funnel_tower_0",
+      "changed": false,
+      "triangle_count": 48,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "20_Blue_funnel_tower_1",
+      "changed": false,
+      "triangle_count": 48,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "21_Blue_bowl_crossbar",
+      "changed": false,
+      "triangle_count": 12,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "23_Orange_rear_ladder_0",
+      "changed": true,
+      "triangle_count": 84,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "23_Orange_rear_ladder_1",
+      "changed": true,
+      "triangle_count": 12,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "24_Orange_ladder_rung_92",
+      "changed": false,
+      "triangle_count": 276,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "24_Orange_ladder_rung_118",
+      "changed": false,
+      "triangle_count": 276,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "24_Orange_ladder_rung_145",
+      "changed": false,
+      "triangle_count": 276,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "25_Transparent_guard_17",
+      "changed": false,
+      "triangle_count": 6716,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "25_Transparent_guard_43",
+      "changed": false,
+      "triangle_count": 6480,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "30_Green_ladder_to_funnel_bridge",
+      "changed": true,
+      "triangle_count": 54122,
+      "watertight_mesh": false,
+      "winding_consistent": true
+    },
+    {
+      "part": "31_Green_funnel_entry_chute",
+      "changed": true,
+      "triangle_count": 6008,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "32_Blue_loader_join_saddle",
+      "changed": true,
+      "triangle_count": 28,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "33_Orange_bridge_post_1",
+      "changed": true,
+      "triangle_count": 992,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "33_Orange_bridge_post_2",
+      "changed": true,
+      "triangle_count": 992,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "33_Orange_bridge_post_3",
+      "changed": true,
+      "triangle_count": 992,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "34a_Green_two_way_route_selector",
+      "changed": true,
+      "triangle_count": 76,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "34b_Green_selector_to_Plinko_chute",
+      "changed": true,
+      "triangle_count": 15966,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "35_Orange_Plinko_board_with_pegs",
+      "changed": true,
+      "triangle_count": 2572,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "36_Blue_Plinko_sidewalls",
+      "changed": true,
+      "triangle_count": 72,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "37_Green_Plinko_return_to_catcher",
+      "changed": true,
+      "triangle_count": 2980,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "38_Blue_Plinko_support_1",
+      "changed": true,
+      "triangle_count": 2518,
+      "watertight_mesh": false,
+      "winding_consistent": true
+    },
+    {
+      "part": "38_Blue_Plinko_support_2",
+      "changed": true,
+      "triangle_count": 2518,
+      "watertight_mesh": false,
+      "winding_consistent": true
+    },
+    {
+      "part": "38_Blue_Plinko_support_3",
+      "changed": true,
+      "triangle_count": 2518,
+      "watertight_mesh": false,
+      "winding_consistent": true
+    },
+    {
+      "part": "38_Blue_Plinko_support_4",
+      "changed": true,
+      "triangle_count": 2766,
+      "watertight_mesh": false,
+      "winding_consistent": true
+    },
+    {
+      "part": "39_Green_Plinko_exit_support",
+      "changed": true,
+      "triangle_count": 626,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    },
+    {
+      "part": "40_Orange_central_spiral_column_and_arms",
+      "changed": true,
+      "triangle_count": 4394,
+      "watertight_mesh": true,
+      "winding_consistent": true
+    }
+  ]
+}

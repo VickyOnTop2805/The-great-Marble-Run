@@ -1,0 +1,201 @@
+{
+  "description": "Unsigned tessellated-surface sphere clearance, 10mm marble, <=1mm nominal station interval. Peg board intentionally interrupts travel, so not checked as a straight trajectory. No dynamic/print/strength validation.",
+  "tracks": [
+    {
+      "path": "04_Blue_funnel_to_vortex_chute",
+      "length_mm": 102.74619372129168,
+      "max_rise_between_samples_mm": -0.12027777612810553,
+      "minimum_surface_clearance_mm": 0.14843677773111708,
+      "closest_object": "05_Green_front_vortex",
+      "closest_center_mm": [
+        80.0,
+        -38.0,
+        88.0
+      ],
+      "sample_count": 103,
+      "samples_below_minus_0_2mm": 0,
+      "worst_samples": []
+    },
+    {
+      "path": "05_Green_front_vortex",
+      "length_mm": 448.70997700751445,
+      "max_rise_between_samples_mm": -0.23430962343095985,
+      "minimum_surface_clearance_mm": -0.10307478530844616,
+      "closest_object": "05_Green_front_vortex",
+      "closest_center_mm": [
+        28.443233914648832,
+        -49.33274584021115,
+        35.464568653555936
+      ],
+      "sample_count": 449,
+      "samples_below_minus_0_2mm": 0,
+      "worst_samples": []
+    },
+    {
+      "path": "06_Orange_vortex_exit",
+      "length_mm": 107.41888898533743,
+      "max_rise_between_samples_mm": -0.0705649301383211,
+      "minimum_surface_clearance_mm": 0.10861280493021841,
+      "closest_object": "06_Orange_vortex_exit",
+      "closest_center_mm": [
+        35.519352781601086,
+        -79.23477490866532,
+        19.422296006479566
+      ],
+      "sample_count": 108,
+      "samples_below_minus_0_2mm": 0,
+      "worst_samples": []
+    },
+    {
+      "path": "07_Green_upper_snaking_rails",
+      "length_mm": 110.94144677998958,
+      "max_rise_between_samples_mm": -0.03716676005402064,
+      "minimum_surface_clearance_mm": 0.026382679559606714,
+      "closest_object": "07_Green_upper_snaking_rails",
+      "closest_center_mm": [
+        -82.99972917645371,
+        81.2390444851905,
+        169.75765721080091
+      ],
+      "sample_count": 111,
+      "samples_below_minus_0_2mm": 0,
+      "worst_samples": []
+    },
+    {
+      "path": "08_Orange_transfer_scoop",
+      "length_mm": 31.548659119408068,
+      "max_rise_between_samples_mm": -0.37837837837835764,
+      "minimum_surface_clearance_mm": 0.028537339858448973,
+      "closest_object": "07_Green_upper_snaking_rails",
+      "closest_center_mm": [
+        -6.025630207912918,
+        47.088465119947685,
+        150.54838709677418
+      ],
+      "sample_count": 32,
+      "samples_below_minus_0_2mm": 0,
+      "worst_samples": []
+    },
+    {
+      "path": "09_Green_return_to_steps",
+      "length_mm": 100.09936590260907,
+      "max_rise_between_samples_mm": -0.15558979132350714,
+      "minimum_surface_clearance_mm": 0.13890778241883517,
+      "closest_object": "09_Green_return_to_steps",
+      "closest_center_mm": [
+        -89.53312589275754,
+        58.83402990976316,
+        126.8
+      ],
+      "sample_count": 101,
+      "samples_below_minus_0_2mm": 0,
+      "worst_samples": []
+    },
+    {
+      "path": "10_Orange_fixed_step_descent",
+      "length_mm": 153.8214917928004,
+      "max_rise_between_samples_mm": -0.03775510204081556,
+      "minimum_surface_clearance_mm": -0.008032554808328207,
+      "closest_object": "10_Orange_fixed_step_descent",
+      "closest_center_mm": [
+        -96.0,
+        -15.472978466986707,
+        61.49691903698418
+      ],
+      "sample_count": 154,
+      "samples_below_minus_0_2mm": 0,
+      "worst_samples": []
+    },
+    {
+      "path": "12_Green_lower_wave_return",
+      "length_mm": 163.1447639676711,
+      "max_rise_between_samples_mm": -0.043658735537928095,
+      "minimum_surface_clearance_mm": 0.05585872403512315,
+      "closest_object": "12_Green_lower_wave_return",
+      "closest_center_mm": [
+        3.0055476944085853,
+        -80.87317917556011,
+        20.445130576143907
+      ],
+      "sample_count": 164,
+      "samples_below_minus_0_2mm": 0,
+      "worst_samples": []
+    },
+    {
+      "path": "30_Ladder_to_funnel_bridge",
+      "length_mm": 208.55219673553194,
+      "max_rise_between_samples_mm": -0.03056488332069307,
+      "minimum_surface_clearance_mm": 0.08903431380559379,
+      "closest_object": "07_Green_upper_snaking_rails",
+      "closest_center_mm": [
+        -88.000088670079,
+        84.06941179132251,
+        169.982075516156
+      ],
+      "sample_count": 209,
+      "samples_below_minus_0_2mm": 0,
+      "worst_samples": []
+    },
+    {
+      "path": "34_Plinko_inlet_chute",
+      "length_mm": 44.770199567023084,
+      "max_rise_between_samples_mm": -0.1277058204777859,
+      "minimum_surface_clearance_mm": 0.2237738310825259,
+      "closest_object": "34b_Green_selector_to_Plinko_chute",
+      "closest_center_mm": [
+        -50.0618566003265,
+        -6.4274702964738,
+        109.38189450726125
+      ],
+      "sample_count": 45,
+      "samples_below_minus_0_2mm": 0,
+      "worst_samples": []
+    },
+    {
+      "path": "34a_Selector_branch",
+      "length_mm": 28.219544457292887,
+      "max_rise_between_samples_mm": 0.0,
+      "minimum_surface_clearance_mm": 0.30694494673108963,
+      "closest_object": "34b_Green_selector_to_Plinko_chute",
+      "closest_center_mm": [
+        -37.89903596143895,
+        12.97308773990665,
+        135.32166769004857
+      ],
+      "sample_count": 30,
+      "samples_below_minus_0_2mm": 0,
+      "worst_samples": []
+    },
+    {
+      "path": "37_Plinko_return_to_catcher",
+      "length_mm": 96.74049535986758,
+      "max_rise_between_samples_mm": -0.06560079554589038,
+      "minimum_surface_clearance_mm": 0.05065490602783829,
+      "closest_object": "35_Orange_Plinko_board_with_pegs",
+      "closest_center_mm": [
+        -49.9877661049023,
+        -78.6658201728006,
+        57.448726736893974
+      ],
+      "sample_count": 97,
+      "samples_below_minus_0_2mm": 0,
+      "worst_samples": []
+    },
+    {
+      "path": "35_Example_Plinko_clear_corridor_NOT_dynamics",
+      "length_mm": 96.09180934415032,
+      "max_rise_between_samples_mm": -0.28678821817551636,
+      "minimum_surface_clearance_mm": 0.08227302044098384,
+      "closest_object": "37_Green_Plinko_return_to_catcher",
+      "closest_center_mm": [
+        -50.0,
+        -75.8922926667925,
+        60.26213504121094
+      ],
+      "sample_count": 97,
+      "samples_below_minus_0_2mm": 0,
+      "worst_samples": []
+    }
+  ],
+  "penetrations_over_0_2mm": []
+}

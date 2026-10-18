@@ -1,0 +1,1244 @@
+[
+  {
+    "name": "01_Base_left",
+    "col": "black",
+    "group": "Base",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 77020.43999999994,
+    "bounds_mm": [
+      -113.00000010000002,
+      5.2000001000000005,
+      -105.00000010000002,
+      105.00000010000002,
+      -1.0000001421096313e-07,
+      7.000000100000026
+    ]
+  },
+  {
+    "name": "01_Base_right",
+    "col": "black",
+    "group": "Base",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 76215.11999999998,
+    "bounds_mm": [
+      -1.0000002842170943e-07,
+      113.00000010000002,
+      -105.00000010000002,
+      105.00000010000002,
+      -1.0000000005551115e-07,
+      7.000000100000026
+    ]
+  },
+  {
+    "name": "02_Orange_funnel",
+    "col": "orange",
+    "group": "Funnel",
+    "printable": true,
+    "changed": true,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 19901.352289833947,
+    "bounds_mm": [
+      16.220380458687313,
+      111.83804424402334,
+      10.176564201938302,
+      105.8234357980617,
+      122.9888121909703,
+      150.05842480271068
+    ]
+  },
+  {
+    "name": "03_Blue_funnel_receiver",
+    "col": "blue",
+    "group": "Funnel",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 936.1946107697995,
+    "bounds_mm": [
+      51.982400866213474,
+      76.01759913378652,
+      57.982400866213474,
+      70.00000010000001,
+      102.38240086621349,
+      111.41759913378652
+    ]
+  },
+  {
+    "name": "04_Blue_funnel_to_vortex_chute",
+    "col": "blue",
+    "group": "Tracks",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 8170.064958052259,
+    "bounds_mm": [
+      54.04746008770023,
+      92.84034132935814,
+      -39.59616583901324,
+      62.254803543852766,
+      80.37976056868823,
+      118.56670200530323
+    ]
+  },
+  {
+    "name": "05_Green_front_vortex",
+    "col": "green",
+    "group": "Vortex",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 30,
+    "volume_mm3": 9428.257949111754,
+    "bounds_mm": [
+      -15.206599762555292,
+      87.00369753893135,
+      -89.12844224580576,
+      5.300115465027181,
+      24.311161451389143,
+      86.82097225510518
+    ]
+  },
+  {
+    "name": "06_Orange_vortex_exit",
+    "col": "orange",
+    "group": "Vortex",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 11,
+    "volume_mm3": 2491.54166466039,
+    "bounds_mm": [
+      10.613156603911932,
+      52.10366590313942,
+      -86.69394996766746,
+      -9.614829047173034,
+      10.92423297586037,
+      30.057485081721392
+    ]
+  },
+  {
+    "name": "07_Green_upper_snaking_rails",
+    "col": "green",
+    "group": "Tracks",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 15,
+    "volume_mm3": 2830.2287379486024,
+    "bounds_mm": [
+      -90.14232714458387,
+      0.7972539818279413,
+      47.79096897691679,
+      90.7194370268387,
+      143.08572109032986,
+      167.72069189959376
+    ]
+  },
+  {
+    "name": "08_Orange_transfer_scoop",
+    "col": "orange",
+    "group": "Tracks",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 2601.0274367874463,
+    "bounds_mm": [
+      -28.07194159532441,
+      3.398488270578729,
+      20.564352159923853,
+      51.60037866048072,
+      130.3327419163693,
+      158.81429239161582
+    ]
+  },
+  {
+    "name": "09_Green_return_to_steps",
+    "col": "green",
+    "group": "Tracks",
+    "printable": true,
+    "changed": true,
+    "valid": true,
+    "solid_count": 11,
+    "volume_mm3": 1944.088904629291,
+    "bounds_mm": [
+      -102.87325156413819,
+      -45.530066256282794,
+      22.960539765948937,
+      68.90050955148826,
+      116.94701323907384,
+      131.6449652667159
+    ]
+  },
+  {
+    "name": "10_Orange_fixed_step_descent",
+    "col": "orange",
+    "group": "Staircase",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 14400.651183618407,
+    "bounds_mm": [
+      -108.37037900000074,
+      -83.62962098549349,
+      -75.69788594602124,
+      49.92579184322786,
+      17.25150963468301,
+      136.62595443994087
+    ]
+  },
+  {
+    "name": "11_Blue_stair_cheek_left",
+    "col": "blue",
+    "group": "Staircase",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 13,
+    "volume_mm3": 10470.884328581802,
+    "bounds_mm": [
+      -110.60000010000671,
+      -105.39999989999329,
+      -65.30000010000002,
+      46.30000010000002,
+      19.428571328570985,
+      115.57142867142002
+    ]
+  },
+  {
+    "name": "11_Blue_stair_cheek_right",
+    "col": "blue",
+    "group": "Staircase",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 13,
+    "volume_mm3": 10470.884328581802,
+    "bounds_mm": [
+      -86.60000010000671,
+      -81.39999989999329,
+      -65.3000001,
+      46.30000010000002,
+      19.428571328570985,
+      115.57142867142002
+    ]
+  },
+  {
+    "name": "12_Green_lower_wave_return",
+    "col": "green",
+    "group": "Tracks",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 18,
+    "volume_mm3": 3877.1231864354363,
+    "bounds_mm": [
+      -102.91023417094053,
+      11.787112844880745,
+      -92.54154393565149,
+      -28.830640689825366,
+      11.003259382563682,
+      25.46306334948629
+    ]
+  },
+  {
+    "name": "13_Orange_finishing_cup",
+    "col": "orange",
+    "group": "Catcher",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 4184.601414581646,
+    "bounds_mm": [
+      1.9706681770224619,
+      42.02933182297754,
+      -106.00000010000002,
+      -65.99999989999998,
+      3.970668177022462,
+      13.029331822977538
+    ]
+  },
+  {
+    "name": "14_Joint_saddle_A1_A2",
+    "col": "blue",
+    "group": "Joints",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 208.59999999975972,
+    "bounds_mm": [
+      -14.938403069134148,
+      2.8189773559112377,
+      46.93986471579485,
+      53.49634352531133,
+      141.67410864733586,
+      147.25891794866413
+    ]
+  },
+  {
+    "name": "14_Joint_saddle_A2_A3",
+    "col": "blue",
+    "group": "Joints",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 208.6000000002573,
+    "bounds_mm": [
+      -25.362256569774853,
+      -19.394627678785792,
+      21.191275006690386,
+      38.83097546803185,
+      127.66453705713515,
+      132.92197327240487
+    ]
+  },
+  {
+    "name": "14_Joint_saddle_A3_Stairs",
+    "col": "blue",
+    "group": "Joints",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 208.5999999992167,
+    "bounds_mm": [
+      -104.84642000544846,
+      -87.11386112913911,
+      43.83734432485187,
+      49.72633433881746,
+      115.77463382970153,
+      120.51430014869847
+    ]
+  },
+  {
+    "name": "14_Joint_saddle_Stairs_Return",
+    "col": "blue",
+    "group": "Joints",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 208.59999999941547,
+    "bounds_mm": [
+      -104.91075035382616,
+      -87.11942450978502,
+      -67.57151807311497,
+      -61.659191831523835,
+      18.874545117509022,
+      23.346946899885296
+    ]
+  },
+  {
+    "name": "14_Joint_saddle_Blue_Vortex",
+    "col": "blue",
+    "group": "Joints",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 208.5999999999954,
+    "bounds_mm": [
+      71.06423613996917,
+      89.01787017333709,
+      -40.78190673971684,
+      -34.143634964655924,
+      78.83226473020117,
+      83.40987213905309
+    ]
+  },
+  {
+    "name": "14_Joint_saddle_Vortex_Exit",
+    "col": "blue",
+    "group": "Joints",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 208.5999999999838,
+    "bounds_mm": [
+      14.158650146999525,
+      32.4617124336264,
+      -47.612133568885405,
+      -38.98915661122453,
+      22.69120424325653,
+      28.363112806238405
+    ]
+  },
+  {
+    "name": "17_Vortex_post_5",
+    "col": "orange",
+    "group": "Supports",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 1575.5661474847261,
+    "bounds_mm": [
+      70.37869358092772,
+      93.28832459968018,
+      -56.694329546820015,
+      -48.09432934681999,
+      3.993693579559819,
+      81.5650827460909
+    ]
+  },
+  {
+    "name": "17_Vortex_post_53",
+    "col": "green",
+    "group": "Supports",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 1387.2575743070174,
+    "bounds_mm": [
+      -22.546083056530176,
+      0.40839557419319195,
+      -32.35239735740001,
+      -23.75239715739999,
+      3.993693579559826,
+      70.33212881767824
+    ]
+  },
+  {
+    "name": "17_Vortex_post_170",
+    "col": "green",
+    "group": "Supports",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 924.7194670406418,
+    "bounds_mm": [
+      25.43694120009883,
+      34.049554040979174,
+      -23.92587728793255,
+      -1.0089989427859944,
+      3.9936935795598276,
+      42.99262871223772
+    ]
+  },
+  {
+    "name": "17_Vortex_post_223",
+    "col": "orange",
+    "group": "Supports",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 736.2824811570949,
+    "bounds_mm": [
+      26.94198837383382,
+      35.554601214714175,
+      -66.96697487205002,
+      -44.05819756229642,
+      3.993693579559822,
+      30.76809606898096
+    ]
+  },
+  {
+    "name": "18_Lower_wave_post_18",
+    "col": "green",
+    "group": "Supports",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 560.377270274032,
+    "bounds_mm": [
+      -81.81325569361461,
+      -62.767253882099816,
+      -86.89394497306031,
+      -73.57078699208816,
+      3.99369357955982,
+      21.412461211266415
+    ]
+  },
+  {
+    "name": "18_Lower_wave_post_75",
+    "col": "green",
+    "group": "Supports",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 496.62537220555754,
+    "bounds_mm": [
+      -31.675588551784283,
+      -8.849596398202335,
+      -48.93004742559249,
+      -40.330047225587506,
+      3.9936935795573354,
+      18.269786725932544
+    ]
+  },
+  {
+    "name": "19_Blue_stair_post_38_-1",
+    "col": "blue",
+    "group": "Supports",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 2976.4295716502647,
+    "bounds_mm": [
+      -108.0051969771353,
+      -91.69369357955982,
+      33.69999989999999,
+      42.30000010000001,
+      3.993693579559815,
+      113.8503087563453
+    ]
+  },
+  {
+    "name": "19_Blue_stair_post_38_1",
+    "col": "blue",
+    "group": "Supports",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 2710.137868136827,
+    "bounds_mm": [
+      -88.30630642044018,
+      -79.69369357955982,
+      33.69999989999999,
+      42.30000010000001,
+      3.993693579559815,
+      111.04921832042687
+    ]
+  },
+  {
+    "name": "19_Blue_stair_post_-21_-1",
+    "col": "blue",
+    "group": "Supports",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 1257.5487151314696,
+    "bounds_mm": [
+      -108.00519697713531,
+      -91.69369357955982,
+      -25.300000100000016,
+      -16.699999899999984,
+      3.9936935795598183,
+      44.062455465194304
+    ]
+  },
+  {
+    "name": "19_Blue_stair_post_-21_1",
+    "col": "blue",
+    "group": "Supports",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 991.2570116160377,
+    "bounds_mm": [
+      -88.30630642044018,
+      -79.69369357955982,
+      -25.300000100000016,
+      -16.699999899999984,
+      3.9936935795598183,
+      41.261365029275865
+    ]
+  },
+  {
+    "name": "19_Blue_stair_post_-60_-1",
+    "col": "blue",
+    "group": "Supports",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 616.9876914363257,
+    "bounds_mm": [
+      -108.0051969771353,
+      -91.69369357955982,
+      -64.30000010000002,
+      -55.69999989999999,
+      3.993693579559815,
+      18.055196977135303
+    ]
+  },
+  {
+    "name": "19_Blue_stair_post_-60_1",
+    "col": "blue",
+    "group": "Supports",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 350.6959879202317,
+    "bounds_mm": [
+      -88.30630642044018,
+      -79.69369357955982,
+      -64.30000010000002,
+      -55.69999989999999,
+      3.993693579559815,
+      15.254106541216867
+    ]
+  },
+  {
+    "name": "20_Blue_funnel_tower_0",
+    "col": "blue",
+    "group": "Supports",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 7095.354239153401,
+    "bounds_mm": [
+      89.4999999,
+      102.5000001,
+      82.4999999,
+      95.5000001,
+      3.9999999,
+      143.09202705836933
+    ]
+  },
+  {
+    "name": "20_Blue_funnel_tower_1",
+    "col": "blue",
+    "group": "Supports",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 7113.53554835179,
+    "bounds_mm": [
+      24.4999999,
+      37.5000001,
+      82.4999999,
+      95.5000001,
+      3.9999999,
+      143.09265347006254
+    ]
+  },
+  {
+    "name": "21_Blue_bowl_crossbar",
+    "col": "blue",
+    "group": "Supports",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 2856.0,
+    "bounds_mm": [
+      29.999999899999985,
+      98.00000010000001,
+      85.49999989999999,
+      92.50000010000001,
+      124.99999989999999,
+      131.00000010000002
+    ]
+  },
+  {
+    "name": "23_Orange_rear_ladder_0",
+    "col": "orange",
+    "group": "Supports",
+    "printable": true,
+    "changed": true,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 4043.8586844486117,
+    "bounds_mm": [
+      -100.61323965388083,
+      -95.49999989999998,
+      88.38676034611917,
+      93.61323965388083,
+      3.999999899999986,
+      166.1132396538808
+    ]
+  },
+  {
+    "name": "23_Orange_rear_ladder_1",
+    "col": "orange",
+    "group": "Supports",
+    "printable": true,
+    "changed": true,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 3924.999999999999,
+    "bounds_mm": [
+      -64.5000001,
+      -59.4999999,
+      89.4999999,
+      94.5000001,
+      3.9999999,
+      161.0000001
+    ]
+  },
+  {
+    "name": "24_Orange_ladder_rung_92",
+    "col": "orange",
+    "group": "Supports",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 326.977375402465,
+    "bounds_mm": [
+      -98.04969731075329,
+      -61.950302689238114,
+      89.29816218843709,
+      93.7018378115633,
+      90.29999989999979,
+      93.70000010000021
+    ]
+  },
+  {
+    "name": "24_Orange_ladder_rung_118",
+    "col": "orange",
+    "group": "Supports",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 326.977375402465,
+    "bounds_mm": [
+      -98.04969731075329,
+      -61.950302689238114,
+      89.29816218843709,
+      93.7018378115633,
+      116.29999989999979,
+      119.70000010000021
+    ]
+  },
+  {
+    "name": "24_Orange_ladder_rung_145",
+    "col": "orange",
+    "group": "Supports",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 326.97737540246516,
+    "bounds_mm": [
+      -98.04969731075329,
+      -61.950302689238114,
+      89.29816218843709,
+      93.7018378115633,
+      143.2999998999998,
+      146.7000001000002
+    ]
+  },
+  {
+    "name": "25_Transparent_guard_17",
+    "col": "clear",
+    "group": "Guards",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 52.74064292460664,
+    "bounds_mm": [
+      61.91131370580672,
+      80.30105716646449,
+      35.11703500828152,
+      46.1461197523142,
+      107.36250522163418,
+      117.47688327843373
+    ]
+  },
+  {
+    "name": "25_Transparent_guard_43",
+    "col": "clear",
+    "group": "Guards",
+    "printable": true,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 52.74064292486814,
+    "bounds_mm": [
+      72.83033744433214,
+      93.3672017403122,
+      4.537055497153276,
+      8.04376557989207,
+      97.52906427576421,
+      107.7638035758896
+    ]
+  },
+  {
+    "name": "26_Static_gear_display_0",
+    "col": "silver",
+    "group": "Static_display",
+    "printable": false,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 2403.6153932506613,
+    "bounds_mm": [
+      90.99618483337868,
+      94.00381516662132,
+      43.128152177475904,
+      76.87184782252409,
+      15.149999899998905,
+      48.8500001000011
+    ]
+  },
+  {
+    "name": "26_Static_gear_display_1",
+    "col": "silver",
+    "group": "Static_display",
+    "printable": false,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 940.4512649283662,
+    "bounds_mm": [
+      90.99654967568249,
+      94.00345032431751,
+      26.149999899999578,
+      47.85000010000042,
+      16.149999899999578,
+      37.85000010000042
+    ]
+  },
+  {
+    "name": "27_Orange_static_gearbox_housing",
+    "col": "orange",
+    "group": "Static_display",
+    "printable": false,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 19711.999999999996,
+    "bounds_mm": [
+      83.99999989999999,
+      100.00000010000001,
+      20.99999989999999,
+      77.00000010000001,
+      4.999999899999993,
+      27.00000010000001
+    ]
+  },
+  {
+    "name": "DISPLAY_10mm_ball_1",
+    "col": "silver",
+    "group": "Display_balls",
+    "printable": false,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 523.5987755982991,
+    "bounds_mm": [
+      -87.76828480141523,
+      -77.68076203569504,
+      75.75963237670364,
+      85.83318938864836,
+      164.66994329479064,
+      174.77878000534935
+    ]
+  },
+  {
+    "name": "DISPLAY_10mm_ball_2",
+    "col": "silver",
+    "group": "Display_balls",
+    "printable": false,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 523.5987755982989,
+    "bounds_mm": [
+      -101.04043734118524,
+      -90.95291457546504,
+      6.983629657292636,
+      17.057186669237364,
+      95.67674139026066,
+      105.78557810081934
+    ]
+  },
+  {
+    "name": "DISPLAY_10mm_ball_3",
+    "col": "silver",
+    "group": "Display_balls",
+    "printable": false,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 523.5987755982991,
+    "bounds_mm": [
+      4.478056136136765,
+      14.565578901856956,
+      -79.32058058072236,
+      -69.24702356877764,
+      75.21336407149866,
+      85.32220078205734
+    ]
+  },
+  {
+    "name": "DISPLAY_10mm_ball_4",
+    "col": "silver",
+    "group": "Display_balls",
+    "printable": false,
+    "changed": false,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 523.598775598299,
+    "bounds_mm": [
+      65.14811742174577,
+      75.23564018746596,
+      37.48564131970064,
+      47.559198331645355,
+      101.40953532980066,
+      111.51837204035934
+    ]
+  },
+  {
+    "name": "30_Green_ladder_to_funnel_bridge",
+    "col": "green",
+    "group": "Funnel_link",
+    "printable": true,
+    "changed": true,
+    "valid": true,
+    "solid_count": 22,
+    "volume_mm3": 4226.432148772481,
+    "bounds_mm": [
+      -110.25291643435455,
+      42.82677570319064,
+      77.02168398324227,
+      109.96031797924418,
+      149.20955556934155,
+      167.65683892713952
+    ]
+  },
+  {
+    "name": "31_Green_funnel_entry_chute",
+    "col": "green",
+    "group": "Funnel_link",
+    "printable": true,
+    "changed": true,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 2397.5527172543643,
+    "bounds_mm": [
+      39.676725772321014,
+      73.99357692534583,
+      83.16561030191845,
+      112.08547440752963,
+      136.70265813553937,
+      163.02558812977702
+    ]
+  },
+  {
+    "name": "32_Blue_loader_join_saddle",
+    "col": "blue",
+    "group": "Joints",
+    "printable": true,
+    "changed": true,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 333.7599999999987,
+    "bounds_mm": [
+      -93.28901318535237,
+      -81.130856538784,
+      74.5291272185595,
+      93.57597055468163,
+      160.87897157768106,
+      165.3278176332092
+    ]
+  },
+  {
+    "name": "33_Orange_bridge_post_1",
+    "col": "orange",
+    "group": "Supports",
+    "printable": true,
+    "changed": true,
+    "valid": true,
+    "solid_count": 4,
+    "volume_mm3": 3617.7959861370673,
+    "bounds_mm": [
+      -83.78341228664385,
+      -71.19403312185082,
+      93.1955250482469,
+      108.42790307151928,
+      3.994033121850816,
+      162.44223802255212
+    ]
+  },
+  {
+    "name": "33_Orange_bridge_post_2",
+    "col": "orange",
+    "group": "Supports",
+    "printable": true,
+    "changed": true,
+    "valid": true,
+    "solid_count": 4,
+    "volume_mm3": 3621.660458491687,
+    "bounds_mm": [
+      -22.997311743709535,
+      -1.194033121850812,
+      93.19552504824689,
+      108.49855068150106,
+      3.9940331218508116,
+      157.49887677771318
+    ]
+  },
+  {
+    "name": "33_Orange_bridge_post_3",
+    "col": "orange",
+    "group": "Supports",
+    "printable": true,
+    "changed": true,
+    "valid": true,
+    "solid_count": 4,
+    "volume_mm3": 3577.49764879975,
+    "bounds_mm": [
+      27.783917389472403,
+      52.805966878149185,
+      91.1955250482469,
+      109.35009244411748,
+      3.9940331218508134,
+      153.17400934778524
+    ]
+  },
+  {
+    "name": "34a_Green_two_way_route_selector",
+    "col": "green",
+    "group": "Plinko_route",
+    "printable": true,
+    "changed": true,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 2158.0599897542024,
+    "bounds_mm": [
+      -48.79121390326285,
+      -23.136857569167805,
+      11.999999899999942,
+      39.00000010000003,
+      126.95388330858306,
+      143.55240276753554
+    ]
+  },
+  {
+    "name": "34b_Green_selector_to_Plinko_chute",
+    "col": "green",
+    "group": "Plinko_route",
+    "printable": true,
+    "changed": true,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 3389.470693926408,
+    "bounds_mm": [
+      -61.5890073546049,
+      -27.423077728657066,
+      -16.794589357012185,
+      14.616776930639407,
+      97.64632884442568,
+      143.3762506625578
+    ]
+  },
+  {
+    "name": "35_Orange_Plinko_board_with_pegs",
+    "col": "orange",
+    "group": "Plinko_route",
+    "printable": true,
+    "changed": true,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 12723.076019763112,
+    "bounds_mm": [
+      -83.00000010000004,
+      -16.999999899999967,
+      -74.43485088682374,
+      -3.545058762287067,
+      52.88832945531995,
+      103.44446124259471
+    ]
+  },
+  {
+    "name": "36_Blue_Plinko_sidewalls",
+    "col": "blue",
+    "group": "Plinko_route",
+    "printable": true,
+    "changed": true,
+    "valid": true,
+    "solid_count": 6,
+    "volume_mm3": 5173.046689887176,
+    "bounds_mm": [
+      -83.00000010000002,
+      -16.999999899999974,
+      -81.87752006120698,
+      -4.806926922259359,
+      54.2985214261211,
+      113.2742857740626
+    ]
+  },
+  {
+    "name": "37_Green_Plinko_return_to_catcher",
+    "col": "green",
+    "group": "Plinko_route",
+    "printable": true,
+    "changed": true,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 7076.511129852041,
+    "bounds_mm": [
+      -61.48239630868268,
+      23.917643435332966,
+      -109.7034191371068,
+      -69.87511232696511,
+      11.074429825800589,
+      63.46204730301698
+    ]
+  },
+  {
+    "name": "38_Blue_Plinko_support_1",
+    "col": "blue",
+    "group": "Supports",
+    "printable": true,
+    "changed": true,
+    "valid": true,
+    "solid_count": 3,
+    "volume_mm3": 2163.4809858465715,
+    "bounds_mm": [
+      -29.500000100000005,
+      -20.494406045485146,
+      -18.943806319500457,
+      -9.9354157724634,
+      3.994406045485147,
+      96.127109513113
+    ]
+  },
+  {
+    "name": "38_Blue_Plinko_support_2",
+    "col": "blue",
+    "group": "Supports",
+    "printable": true,
+    "changed": true,
+    "valid": true,
+    "solid_count": 3,
+    "volume_mm3": 2163.480985846573,
+    "bounds_mm": [
+      -79.50000010000002,
+      -70.49440604548514,
+      -18.94380631950046,
+      -9.935415772463395,
+      3.9944060454851416,
+      96.127109513113
+    ]
+  },
+  {
+    "name": "38_Blue_Plinko_support_3",
+    "col": "blue",
+    "group": "Supports",
+    "printable": true,
+    "changed": true,
+    "valid": true,
+    "solid_count": 3,
+    "volume_mm3": 1432.612694656717,
+    "bounds_mm": [
+      -42.500000100000015,
+      -33.494406045485135,
+      -68.09292897683999,
+      -59.084538429802905,
+      3.994406045485137,
+      61.71252333205023
+    ]
+  },
+  {
+    "name": "38_Blue_Plinko_support_4",
+    "col": "blue",
+    "group": "Supports",
+    "printable": true,
+    "changed": true,
+    "valid": true,
+    "solid_count": 4,
+    "volume_mm3": 1687.458690715921,
+    "bounds_mm": [
+      -65.32631195948652,
+      -45.494406045485135,
+      -68.09292897683999,
+      -59.084538429802905,
+      3.994406045485137,
+      61.71252333205023
+    ]
+  },
+  {
+    "name": "39_Green_Plinko_exit_support",
+    "col": "green",
+    "group": "Supports",
+    "printable": true,
+    "changed": true,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 519.2717746269386,
+    "bounds_mm": [
+      -41.995966290036485,
+      -32.990372235521605,
+      -97.1143670851967,
+      -88.10597653815964,
+      3.994406045485138,
+      25.96940211374564
+    ]
+  },
+  {
+    "name": "40_Orange_central_spiral_column_and_arms",
+    "col": "orange",
+    "group": "Spiral_support",
+    "printable": true,
+    "changed": true,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 3900.267695984124,
+    "bounds_mm": [
+      20.454318506463363,
+      70.96056535031043,
+      -88.3142941892761,
+      -10.860429136330726,
+      3.991298348532446,
+      92.0074192899393
+    ]
+  },
+  {
+    "name": "DISPLAY_Plinko_ball",
+    "col": "silver",
+    "group": "Display_balls",
+    "printable": false,
+    "changed": true,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 523.5987755982989,
+    "bounds_mm": [
+      -49.04043734118523,
+      -38.95291457546505,
+      -48.16455618895404,
+      -38.09099917700934,
+      78.1496770633809,
+      88.25851377393958
+    ]
+  },
+  {
+    "name": "DISPLAY_new_bridge_ball",
+    "col": "silver",
+    "group": "Display_balls",
+    "printable": false,
+    "changed": true,
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 523.598775598299,
+    "bounds_mm": [
+      -10.924931642615528,
+      -0.8374088768953392,
+      97.36017497710793,
+      107.43373198905266,
+      156.51197481875164,
+      166.6208115293103
+    ]
+  }
+]

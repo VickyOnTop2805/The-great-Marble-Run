@@ -1,0 +1,19 @@
+{
+  "step_file": "Marble_Mayhem_V2_assembled.step",
+  "read_back_success": true,
+  "shape_valid": true,
+  "solid_count": 217,
+  "named_component_count": 69,
+  "source_valid_components": 69,
+  "total_dimensions_mm": [
+    226.0,
+    220.50018164732262,
+    174.72436165007
+  ],
+  "nominal_marble_diameter_mm": 10,
+  "printable_component_volume_cm3": 347.0595443462772,
+  "new_or_modified_component_count": 23,
+  "caveat": "File and geometric checks only. Not roll-tested or print-tested; no budget quote.",
+  "solid_PLA_equivalent_g_at_assumed_density_1_24": 430.35383498938376,
+  "final_after_display_update_read_back_valid": true
+}

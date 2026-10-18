@@ -1,0 +1,61 @@
+{
+  "inlet_marble_center_mm": [
+    -50.0,
+    -12.0,
+    105.0
+  ],
+  "outlet_marble_center_mm": [
+    -50.0,
+    -77.53216354311934,
+    59.113885091916316
+  ],
+  "slope_degrees": 35,
+  "peg_radius_mm": 1.8,
+  "row_pitch_mm": 15,
+  "horizontal_pitch_mm": 19,
+  "minimum_same_row_gap_mm": 15.4,
+  "nominal_marble_diameter_mm": 10,
+  "peg_centers_local_mm": [
+    [
+      -19.0,
+      12.0
+    ],
+    [
+      0.0,
+      12.0
+    ],
+    [
+      19.0,
+      12.0
+    ],
+    [
+      -9.5,
+      27.0
+    ],
+    [
+      9.5,
+      27.0
+    ],
+    [
+      -19.0,
+      42.0
+    ],
+    [
+      0.0,
+      42.0
+    ],
+    [
+      19.0,
+      42.0
+    ],
+    [
+      -9.5,
+      57.0
+    ],
+    [
+      9.5,
+      57.0
+    ]
+  ],
+  "note": "Peg collisions and alternate paths are deliberate. Physical bounce/jam testing required."
+}

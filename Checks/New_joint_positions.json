@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Ladder loading ridge to funnel bridge",
+    "a": "07_Green_upper_snaking_rails",
+    "ia": 0,
+    "b": "30_Ladder_to_funnel_bridge",
+    "ib": 0,
+    "gap_mm": 0.0
+  },
+  {
+    "name": "Scoop to new route fork",
+    "a": "08_Orange_transfer_scoop",
+    "ia": -1,
+    "b": "34a_Selector_branch",
+    "ib": 0,
+    "gap_mm": 0.0
+  },
+  {
+    "name": "Selector to Plinko feed",
+    "gap_mm": 0.0
+  },
+  {
+    "name": "Plinko inlet",
+    "gap_mm": 1.5888218580782548e-14
+  },
+  {
+    "name": "Plinko outlet",
+    "gap_mm": 0.0
+  }
+]

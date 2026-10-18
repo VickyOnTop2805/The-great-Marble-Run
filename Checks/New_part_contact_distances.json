@@ -1,0 +1,55 @@
+{
+  "description": "Minimum native CAD surface distances at intended non-drop joins. Does not prove mechanical fit/adhesion/strength.",
+  "pairs": [
+    {
+      "part_1": "30_Green_ladder_to_funnel_bridge",
+      "part_2": "07_Green_upper_snaking_rails",
+      "minimum_surface_separation_mm": 0.0
+    },
+    {
+      "part_1": "30_Green_ladder_to_funnel_bridge",
+      "part_2": "31_Green_funnel_entry_chute",
+      "minimum_surface_separation_mm": 0.0
+    },
+    {
+      "part_1": "31_Green_funnel_entry_chute",
+      "part_2": "02_Orange_funnel",
+      "minimum_surface_separation_mm": 0.0
+    },
+    {
+      "part_1": "34a_Green_two_way_route_selector",
+      "part_2": "08_Orange_transfer_scoop",
+      "minimum_surface_separation_mm": 0.0
+    },
+    {
+      "part_1": "34a_Green_two_way_route_selector",
+      "part_2": "09_Green_return_to_steps",
+      "minimum_surface_separation_mm": 0.0
+    },
+    {
+      "part_1": "34a_Green_two_way_route_selector",
+      "part_2": "34b_Green_selector_to_Plinko_chute",
+      "minimum_surface_separation_mm": 0.0
+    },
+    {
+      "part_1": "34b_Green_selector_to_Plinko_chute",
+      "part_2": "35_Orange_Plinko_board_with_pegs",
+      "minimum_surface_separation_mm": 0.0
+    },
+    {
+      "part_1": "35_Orange_Plinko_board_with_pegs",
+      "part_2": "37_Green_Plinko_return_to_catcher",
+      "minimum_surface_separation_mm": 0.0
+    },
+    {
+      "part_1": "40_Orange_central_spiral_column_and_arms",
+      "part_2": "05_Green_front_vortex",
+      "minimum_surface_separation_mm": 0.0
+    },
+    {
+      "part_1": "40_Orange_central_spiral_column_and_arms",
+      "part_2": "01_Base_right",
+      "minimum_surface_separation_mm": 0.0
+    }
+  ]
+}
